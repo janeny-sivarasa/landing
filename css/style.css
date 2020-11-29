@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+
+
+body {
+	font-family: cambria
+	font-size: 18px;
+	margin: 0px
+
+}
+
+h1 {
+	font-family: 'Sofia', cursive; 
+	font-weight: bold;
+}
+
+h2, h3 {
+	font-family:'ZCOOL XiaoWei', serif;
+	font-weight: bold 
+}
+
+a {
+	text-decoration: none;
+}
